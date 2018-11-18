@@ -1,7 +1,7 @@
 <div align="center"> 
 
-<h2>◆void</h2>
-<h3>Small, lightweight CSS library for React </h3>
+<p style="font-size: 30px">voidjs ◆</p>
+<p style="font-size: 16px">small, minimalistic and elegant CSS library for React</p>
 
 [![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
@@ -17,15 +17,22 @@
 3.2. [To do][3.2]
 4. [Credits][4]
 
-## ◆ Overview
+## Overview ↓
 
-## ◆ Install
+voidjs was built with <a href="https://emotion.sh">emotion</a> and it's direct environment was and should be React. It can be forked and build for plain JavaScript, Vue and whatever else you needs, but It's highly recommended to do it with another name. I'd love if voidjs stays React-only.
 
-## ◆ Contribution
+## Install ↓
 
-## ◆ To do
+## Contribution ↓
 
-## ◆ Credits
+## To do ↓
+1. Need to buy `voidjs.io` domain.
+
+---
+
+credits: <a href="https://robertgrzonka.theguys.sh/">robertgrzonka</a> <i>as</i> <a href="https://theguys.sh">theGuys™</a>
+
+© 2018 • MIT
 
 [1]: #overview
 [2]: #install
