@@ -1,7 +1,7 @@
 <div align="center"> 
 
 <h1>💎<br/>
-voidjs<br/></h2>
+voidJS<br/></h2>
   
   **Small, minimalistic and elegant CSS library for React.**
 
@@ -19,7 +19,7 @@ voidjs<br/></h2>
 
 ## Overview ↓
 
-**void** /*or voidjs*/ was built with <a href="https://emotion.sh">emotion</a>.
+**void** /*voidjs, voidJS, VOIDJS*/ was built with <a href="https://emotion.sh">emotion</a> strictly to fit my personal needs, but it's highly customizable.
 
 > Direct environment for **void** alwats was and always should be *only* [React.js](https://reactjs.org). This repository can be forked and the whole module can be rebuild for plain JavaScript, Vue and whatever else you needs, however It's highly recommended to do it with another name. I'd love if **voidjs** stays React-only.
 Any other pull-requests will be welcomed.
