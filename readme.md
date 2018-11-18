@@ -1,9 +1,9 @@
 <div align="center"> 
 
 <h1>💎<br/>
-voidJS<br/></h2>
+voidjs | theGuys.design<br/></h2>
   
-  **Small, minimalistic and elegant CSS library for React.**
+  **Small, minimalistic and elegant CSS library for React by <a href="https://theguys.sh">theGuys™</a>**
 
 [![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
@@ -19,23 +19,30 @@ voidJS<br/></h2>
 
 ## Overview ↓
 
-**void** /*voidjs, voidJS, VOIDJS*/ was built with <a href="https://emotion.sh">emotion</a> strictly to fit my personal needs, but it's highly customizable.
+**voidjs** /*also theGuys.design*/ was built with <a href="https://emotion.sh">emotion</a> strictly to fit my personal needs, but it's highly customizable.
 
-> Direct environment for **void** alwats was and always should be *only* [React.js](https://reactjs.org). This repository can be forked and the whole module can be rebuild for plain JavaScript, Vue and whatever else you needs, however It's highly recommended to do it with another name. I'd love if **voidjs** stays React-only.
-Any other pull-requests will be welcomed.
+> Direct environment for **voidjs** always was and always should be *only* [React.js](https://reactjs.org). This repository can be forked and the whole module can be rebuild for plain JavaScript, Vue and whatever else you needs. However It's highly recommended to do it with another name. I'd love if **voidjs** stays React-only.
+>
+>Any other pull-requests will be kindly welcomed ♥️
 
 ## Install ↓
 
 ## Contribution ↓
 
-## To do ↓
+### Code of Conduct
+
+### To do
 1. Need to buy `voidjs.io` domain.
 
 ---
 
-credits: <a href="https://robertgrzonka.theguys.sh/">robertgrzonka</a> <i>as</i> <a href="https://theguys.sh">theGuys™</a>
+<div align="center">
+
+proudly designed by <a href="https://robertgrzonka.theguys.sh/">robertgrzonka</a> | <a href="https://theguys.sh">theGuys™</a>
 
 MIT © 2018 
+
+</div>
 
 [1]: #overview
 [2]: #install
