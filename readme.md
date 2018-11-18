@@ -2,12 +2,8 @@
 
 <h1>💎<br/>
 voidjs<br/></h2>
-
-<p>
   
-  **small, minimalistic and elegant CSS library for React**
-  
-</p>
+  **Small, minimalistic and elegant CSS library for React.**
 
 [![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
@@ -23,7 +19,10 @@ voidjs<br/></h2>
 
 ## Overview ↓
 
-voidjs was built with <a href="https://emotion.sh">emotion</a> and it's direct environment was and should be React. It can be forked and build for plain JavaScript, Vue and whatever else you needs, but It's highly recommended to do it with another name. I'd love if voidjs stays React-only.
+**void** /*or voidjs*/ was built with <a href="https://emotion.sh">emotion</a>.
+
+> Direct environment for **void** alwats was and always should be *only* [React.js](https://reactjs.org). This repository can be forked and the whole module can be rebuild for plain JavaScript, Vue and whatever else you needs, however It's highly recommended to do it with another name. I'd love if **voidjs** stays React-only.
+Any other pull-requests will be welcomed.
 
 ## Install ↓
 
@@ -36,7 +35,7 @@ voidjs was built with <a href="https://emotion.sh">emotion</a> and it's direct e
 
 credits: <a href="https://robertgrzonka.theguys.sh/">robertgrzonka</a> <i>as</i> <a href="https://theguys.sh">theGuys™</a>
 
-© 2018 • MIT
+MIT © 2018 
 
 [1]: #overview
 [2]: #install
