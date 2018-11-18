@@ -1,13 +1,19 @@
 <div align="center"> 
 
-<p style="font-size: 30px">voidjs ◆</p>
-<p style="font-size: 16px">small, minimalistic and elegant CSS library for React</p>
+<h1>💎<br/>
+voidjs<br/></h2>
+
+<p>
+  
+  **small, minimalistic and elegant CSS library for React**
+  
+</p>
 
 [![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
----
-
 </div>
+
+---
 
 ## Table of Contents
 1. [Overview][1]
