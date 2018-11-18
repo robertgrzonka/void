@@ -13,8 +13,6 @@ voidjs<br/></h2>
 
 </div>
 
----
-
 ## Table of Contents
 1. [Overview][1]
 2. [Install][2]
