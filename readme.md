@@ -5,7 +5,7 @@ voidjs | theGuys.design<br/></h2>
   
   **Small, minimalistic and elegant CSS library for React by <a href="https://theguys.sh">theGuys™</a>**
 
-[![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Build Status](https://travis-ci.com/theguysdesign/voidjs.svg?branch=master)](https://travis-ci.com/theguysdesign/voidjs)
 
 </div>
 
@@ -38,7 +38,9 @@ voidjs | theGuys.design<br/></h2>
 
 <div align="center">
 
-proudly designed by <a href="https://robertgrzonka.theguys.sh/">robertgrzonka</a> | <a href="https://theguys.sh">theGuys™</a>
+Proudly designed by <a href="https://robertgrzonka.theguys.sh/">robertgrzonka</a> | <a href="https://theguys.sh">theGuys™</a>
+
+[![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
 MIT © 2018 
 
