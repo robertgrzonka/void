@@ -22,7 +22,7 @@ void | theGuys.design<br/></h1>
 ## Install
 
 ## Contribution
-[We support Conventional Commits!] (https://www.conventionalcommits.org)
+[We support Conventional Commits!](https://www.conventionalcommits.org)
 
 ## License
 
